@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90D92802-03FA-4EC1-8732-580ACF1BB24D}|User.Management.Service\\User.Management.Service.csproj|c:\\users\\moataz tareq\\desktop\\careandsafebackend\\finalapi\\careandsafe\\user.management.service\\services\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D92802-03FA-4EC1-8732-580ACF1BB24D}|User.Management.Service\\User.Management.Service.csproj|solutionrelative:user.management.service\\services\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D92802-03FA-4EC1-8732-580ACF1BB24D}|User.Management.Service\\User.Management.Service.csproj|c:\\users\\moataz tareq\\desktop\\careandsafebackend\\finalapi\\careandsafe\\user.management.service\\services\\iusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D92802-03FA-4EC1-8732-580ACF1BB24D}|User.Management.Service\\User.Management.Service.csproj|solutionrelative:user.management.service\\services\\iusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D92802-03FA-4EC1-8732-580ACF1BB24D}|User.Management.Service\\User.Management.Service.csproj|c:\\users\\moataz tareq\\desktop\\careandsafebackend\\finalapi\\careandsafe\\user.management.service\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D92802-03FA-4EC1-8732-580ACF1BB24D}|User.Management.Service\\User.Management.Service.csproj|solutionrelative:user.management.service\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90D92802-03FA-4EC1-8732-580ACF1BB24D}|User.Management.Service\\User.Management.Service.csproj|c:\\users\\moataz tareq\\desktop\\careandsafebackend\\finalapi\\careandsafe\\user.management.service\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90D92802-03FA-4EC1-8732-580ACF1BB24D}|User.Management.Service\\User.Management.Service.csproj|solutionrelative:user.management.service\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76807F5D-BEC7-43A4-BF7D-AFE87AA79FF2}|User.Management.Data\\User.Management.Data.csproj|c:\\users\\moataz tareq\\desktop\\careandsafebackend\\finalapi\\careandsafe\\user.management.data\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76807F5D-BEC7-43A4-BF7D-AFE87AA79FF2}|User.Management.Data\\User.Management.Data.csproj|solutionrelative:user.management.data\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\User.Management.Service\\Services\\UserManagement.cs",
+              "RelativeDocumentMoniker": "User.Management.Service\\Services\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\User.Management.Service\\Services\\UserManagement.cs",
+              "RelativeToolTip": "User.Management.Service\\Services\\UserManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:30:41.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\User.Management.Service\\Services\\IUserManagement.cs",
+              "RelativeDocumentMoniker": "User.Management.Service\\Services\\IUserManagement.cs",
+              "ToolTip": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\User.Management.Service\\Services\\IUserManagement.cs",
+              "RelativeToolTip": "User.Management.Service\\Services\\IUserManagement.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:30:37.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\User.Management.Service\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "User.Management.Service\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\User.Management.Service\\Services\\IEmailService.cs",
+              "RelativeToolTip": "User.Management.Service\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:30:26.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\User.Management.Service\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "User.Management.Service\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\User.Management.Service\\Services\\EmailService.cs",
+              "RelativeToolTip": "User.Management.Service\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:30:20.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\User.Management.Data\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "User.Management.Data\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Moataz Tareq\\Desktop\\CareAndSafeBackEnd\\FinalApi\\CareAndSafe\\User.Management.Data\\Models\\Message.cs",
+              "RelativeToolTip": "User.Management.Data\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T18:29:52.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 256,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
